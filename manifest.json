@@ -1,0 +1,12 @@
+{
+  "$schema": "https://raw.githubusercontent.com/ScrappySM/CarbonLauncher/refs/heads/main/schema.json",
+
+  "name": "SMTracy",
+  "url": "https://github.com/BenMcAvoy/SMTracy",
+
+  "authors": [
+    "BenMcAvoy"
+  ],
+
+  "description": "No description yet, needs to be filled in"
+}
